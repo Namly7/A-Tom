@@ -12,37 +12,8 @@ Il va y avoir deux répliques, et ce sera à toi (et tes amis, si tu oses les fa
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Quoi ? Tu n'as pas trouvé ? Roooh.
 
-Dernière étape : M’envoyer un message sur insta en disant quel est le nom de cet extrait, tout en étant le plus précis possible. <a href="https:wwww.instagram.com/itsnamly">(@itsnamly)</a></p></body>
+Dernière étape : M’envoyer un message sur insta en disant quel est le nom de cet extrait, tout en étant le plus précis possible. <a href="https:wwww.instagram.com/itsnamly">(@itsnamly)
 
 ps : oui j'ai codé tout ça.
