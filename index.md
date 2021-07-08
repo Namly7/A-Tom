@@ -2,7 +2,7 @@
 
 Il va falloir juste remonter dans le temps, Tom. On va voir si tu as bonne mémoire.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Il va y avoir deux répliques, et ce sera à toi (et tes amis, si tu oses les faire participer), il va falloir que tu trouves d'où ça vient. :) 
 
 ### Markdown
 
