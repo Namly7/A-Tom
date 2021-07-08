@@ -7,25 +7,9 @@ Il va y avoir deux répliques, et ce sera à toi (et tes amis, si tu oses les fa
 ### Let's go
 
 -Tu étais bizarre hier soir, tu m’as même laissé partir sans me dire au revoir, pas un baiser, rien. Tu trafiquais ton horloge, hypnotisé. J’ai eu peur que tu te coupes avec les aiguilles.
+
 -Je suis désolé, je voulais juste tenter quelque chose… Pour que tu restes un peu plus longtemps. Mais ça n’a pas fonctionné.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
