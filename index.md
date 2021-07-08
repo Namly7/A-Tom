@@ -11,12 +11,25 @@ Il va y avoir deux répliques, et ce sera à toi (et tes amis, si tu oses les fa
 -Je suis désolé, je voulais juste tenter quelque chose… Pour que tu restes un peu plus longtemps. Mais ça n’a pas fonctionné.
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Namly7/aTom/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Quoi ? Tu n'as pas trouvé ? Roooh.
+
+Dernière étape : M’envoyer un message sur insta en disant quel est le nom de cet extrait, tout en étant le plus précis possible. (@itsnamly)
