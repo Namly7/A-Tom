@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Seulement les aiguilles du temps ! :D
 
-You can use the [editor on GitHub](https://github.com/Namly7/aTom/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Il va falloir juste remonter dans le temps, Tom. On va voir si tu as bonne mémoire.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
